@@ -1,3 +1,9 @@
 # maquina_de_dulces
-<img width="1900" height="920" alt="image" src="https://github.com/user-attachments/assets/1a12b2c5-a1bf-42cc-8c01-0b33360fcd3a" />
+#DIAGRAMA DE FLUJO
+<img width="1600" height="1213" alt="image" src="https://github.com/user-attachments/assets/fa4d5a9b-d0b1-4a7f-b377-310c99d3e12d" />
+# COMO EJECUTAR EL CODIGO 
+1. Descargar proyecto
+2. Abra una termianl en la carpeta del proyecto
+3. Ejecute con: Python codigo.py
+4. 
 
