@@ -1,5 +1,4 @@
 saldo = 5.0
-
 papas = 0
 chocolate = 0
 refresco = 0
